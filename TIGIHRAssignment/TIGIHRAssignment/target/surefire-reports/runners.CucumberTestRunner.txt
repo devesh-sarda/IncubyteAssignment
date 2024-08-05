@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.CucumberTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.478 s <<< FAILURE! - in runners.CucumberTestRunner
+Search for Selenium(Sign Up Test Case)  Time elapsed: 0.298 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+
